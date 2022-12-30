@@ -3,8 +3,8 @@ An E-Commerce about tech components based in Saleforce Commerce Cloud.
 
 Objective:
 
-Using a service, we will import our products, which are going to be selled. in order to create presets of balanced bundles.
-This will help our consumers to find the right configuration for them.
+Using a service, we will update our products prices.
+In order to help our consumers to find the right configuration for them, we will create presets of balanced bundles.
 
 To-do:
 
