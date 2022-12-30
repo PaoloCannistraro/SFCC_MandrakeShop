@@ -3,8 +3,8 @@ An E-Commerce about tech components based in Saleforce Commerce Cloud.
 
 Objective:
 
-Using a service for import the products we are going to sell, with the aim of creating balanced bundles,
-in order to help the user find his ideal configuration.
+Using a service, we will import our products, which are going to be selled. in order to create presets of balanced bundles.
+This will help our consumers to find the right configuration for them.
 
 Utilizzando un service importiamo i prodotti che andremo a vendere, con il fine di creare dei bundle equilibrati,
 in modo da aiutare l'utente a trovare la sua configurazione ideale.
