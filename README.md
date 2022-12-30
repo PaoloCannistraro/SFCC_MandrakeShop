@@ -6,11 +6,7 @@ Objective:
 Using a service, we will import our products, which are going to be selled. in order to create presets of balanced bundles.
 This will help our consumers to find the right configuration for them.
 
-Utilizzando un service importiamo i prodotti che andremo a vendere, con il fine di creare dei bundle equilibrati,
-in modo da aiutare l'utente a trovare la sua configurazione ideale.
-
-
-The examples cover these areas:
+To-do:
 
 1. [ ] Creare un custom object con almeno due attributi oltre la keyvalue
 2. [ ] Estendere un system object (il più semplice è Product, ma ce ne sono tanti...)
