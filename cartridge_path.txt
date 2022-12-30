@@ -1,1 +1,1 @@
-:app_storefront_base
+custom_MandrakeShop:app_storefront_base

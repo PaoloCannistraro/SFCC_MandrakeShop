@@ -16,7 +16,6 @@ To-do:
 6. [ ] Creare un controller
 7. [ ] Estendere l'endpoint di un controller esistente
 
-
 # Getting Started
 
 1. Clone this repository.
