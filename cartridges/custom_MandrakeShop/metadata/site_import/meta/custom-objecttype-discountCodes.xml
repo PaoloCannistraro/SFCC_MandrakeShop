@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns="http://www.demandware.com/xml/impex/metadata/2006-10-31">
+    <custom-type type-id="discountCode">
+        <display-name xml:lang="x-default">discountCode</display-name>
+        <description xml:lang="x-default">Discount codes</description>
+        <staging-mode>no-staging</staging-mode>
+        <storage-scope>site</storage-scope>
+        <retention-days>3</retention-days>
+        <key-definition attribute-id="promoId">
+            <type>string</type>
+            <min-length>0</min-length>
+        </key-definition>
+        <attribute-definitions>
+            <attribute-definition attribute-id="productId">
+                <display-name xml:lang="x-default">productId</display-name>
+                <type>string</type>
+                <localizable-flag>false</localizable-flag>
+                <mandatory-flag>false</mandatory-flag>
+                <externally-managed-flag>false</externally-managed-flag>
+                <min-length>0</min-length>
+            </attribute-definition>
+            <attribute-definition attribute-id="code">
+                <display-name xml:lang="x-default">code</display-name>
+                <type>string</type>
+                <localizable-flag>false</localizable-flag>
+                <mandatory-flag>false</mandatory-flag>
+                <externally-managed-flag>false</externally-managed-flag>
+                <min-length>0</min-length>
+            </attribute-definition>
+            <attribute-definition attribute-id="discountValue">
+                <display-name xml:lang="x-default">discountValue</display-name>
+                <type>string</type>
+                <localizable-flag>false</localizable-flag>
+                <mandatory-flag>false</mandatory-flag>
+                <externally-managed-flag>false</externally-managed-flag>
+                <min-length>0</min-length>
+            </attribute-definition>
+        </attribute-definitions>
+        <group-definitions>
+            <attribute-group group-id="general">
+                <display-name xml:lang="x-default">General</display-name>
+                <attribute attribute-id="productId" />
+                <attribute attribute-id="code" />
+                <attribute attribute-id="discountValue" />
+            </attribute-group>
+        </group-definitions>
+    </custom-type>
+</metadata>
